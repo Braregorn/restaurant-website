@@ -1,7 +1,7 @@
 
 /* General CSS */
 body{
-    background-color : rgba(5,157,240,0.1)
+    background-color : #bdfbda;
 }
 
 #wrap {
@@ -42,7 +42,7 @@ nav{
   #restaurantMenuFront{
     display : flex;
     padding-top : 100px;
-    padding-bottom : 100px;
+    padding-bottom : 25px;
     border : solid 0px black;
     justify-content : center;
   }
@@ -50,7 +50,7 @@ nav{
   #restaurantMenuBack{
     display : flex;
     padding-top : 100px;
-    padding-bottom : 100px;
+    padding-bottom : 25px;
     border : solid 0px black;
     justify-content : center;
   }
@@ -58,13 +58,13 @@ nav{
   .menu-front-img{
     max-width : 100vh;
     min-width : 20vh;
-    max-height : 40vh;
+    max-height : 40%;
   }
 
   .menu-back-img{
     max-width : 100vh;
     min-width : 20vh;
-    max-height : 40vh;
+    max-height : 40%;
   }
 
 
