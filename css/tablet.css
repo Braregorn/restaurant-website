@@ -42,14 +42,14 @@ nav{
   #restaurantMenuFront{
     display : flex;
     padding-top : 100px;
-    padding-bottom : 25px;
+    padding-bottom : 100px;
     border : solid 0px black;
     justify-content : center;
   }
 
   #restaurantMenuBack{
     display : flex;
-    padding-top : 25px;
+    padding-top : 100px;
     padding-bottom : 100px;
     border : solid 0px black;
     justify-content : center;
@@ -58,13 +58,13 @@ nav{
   .menu-front-img{
     max-width : 100vh;
     min-width : 20vh;
-    max-height : 25vh;
+    max-height : 40vh;
   }
 
   .menu-back-img{
     max-width : 100vh;
     min-width : 20vh;
-    max-height : 25vh;
+    max-height : 40vh;
   }
 
 
